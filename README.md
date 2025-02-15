@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbeceokey
-- I am at Ege University , I want to be iOS Developer
+- I am at İTÜ and I am jr. iOS Developer.
 - 🌱 I’m currently learning Swift since 2023
 - This account was opened to store my swift exercises and app . If u want to access my other works, plz visit ---> https://github.com/bbece
   
