@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bbeceokey
-- I am at İTÜ and I am jr. iOS Developer.
+- I am at İTÜ and I am jr.Developer.
 - 🌱 I’m currently learning Swift since 2023
+- 🌱 I'm currently learning DataScience since 2022
 - This account was opened to store my swift exercises and app . If u want to access my other works, plz visit ---> https://github.com/bbece
   
 <h1 align="center">Hi 👋, I'm Busra Ece OK</h1>
